@@ -1,4 +1,4 @@
-# Jammu & Kashmir Budget Calculator
+# Jammu & Kashmir Budget Calculator.
 
 ## Description
 This is a C-based Command Line Interface (CLI) application designed to help travelers estimate their trip budget for visiting Jammu & Kashmir. The program calculates the total cost and per-person cost based on user inputs regarding transportation, accommodation, and food preferences.
