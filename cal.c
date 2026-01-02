@@ -91,4 +91,5 @@ do{ printf("              Budget Calculator \n");
     scanf("%d", &q);
     printf("\n");printf("Thank You");}
     while(q == 1);
-    return 0;}
+    return 0;
+}
